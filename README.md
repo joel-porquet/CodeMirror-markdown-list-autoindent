@@ -9,7 +9,7 @@ When continuing a list in Markdown, type `<Tab>` to indent the next bullet or
 
 Example:
 
-![Screencast](screencast.gif)
+![Screencast](https://raw.githubusercontent.com/joel-porquet/CodeMirror-markdown-list-autoindent/master/screencast.gif)
 
 ## NPM
 
