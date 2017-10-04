@@ -13,7 +13,8 @@ Example:
 
 ## NPM
 
-The package is on NPM:
+The package is on
+[NPM](https://www.npmjs.com/package/codemirror-markdown-list-autoindent):
 
 ```console
 $ npm install codemirror-markdown-list-autoindent
