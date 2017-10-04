@@ -1,6 +1,6 @@
 {
   "name": "codemirror-markdown-list-autoindent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CodeMirror patched with markdown list auto-indent",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,6 +21,6 @@
     "url": "https://github.com/joel-porquet/CodeMirror-markdown-list-autoindent/issues"
   },
   "dependencies": {
-      "codemirror": "^5.x"
+    "codemirror": "^5.x"
   }
 }
